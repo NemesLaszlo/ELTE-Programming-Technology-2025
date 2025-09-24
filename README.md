@@ -29,3 +29,25 @@ The lecture (előadás) is asynchronous online
 - Submission of first assignment - **October 6, 2025**
 - Submission of second assignment - **November 10, 2025**
 - Submission of the third assignment - **December 8, 2025**
+
+### I. Take Home 
+
+| Neptun   | Task Number |
+|--------|-------:|
+| XK61YK | 5 |
+| BF17RM | 9 |
+| JHD244 | 3 |
+| HERAB5 | 7 |
+| YI1U3H | 4 |
+| X4EA8T | 2 |
+| FZ96WQ | 10 |
+| OUBW0B | 6 |
+| OAC0Z2 | 9 |
+| G5TD4J | 7 |
+| OEAOOH | 2 |
+| XRRP5L | 5 |
+| TO9KP8 | 10 |
+| A4652O | 3 |
+| CBNS1V | 4 |
+| DJZNAT | 6 |
+| IA8WK2 | 9 |
