@@ -51,3 +51,26 @@ The lecture (előadás) is asynchronous online
 | CBNS1V | 4 |
 | DJZNAT | 6 |
 | IA8WK2 | 9 |
+
+### II. Take Home 
+
+| Neptun | Task Number |
+| ------ | ----------: |
+| XK61YK |           8 |
+| BF17RM |           2 |
+| JHD244 |           6 |
+| HERAB5 |          10 |
+| YI1U3H |           1 |
+| X4EA8T |           9 |
+| FZ96WQ |           5 |
+| OUBW0B |           7 |
+| OAC0Z2 |           3 |
+| G5TD4J |           4 |
+| OEAOOH |          10 |
+| XRRP5L |           2 |
+| TO9KP8 |           8 |
+| A4652O |           1 |
+| CBNS1V |           5 |
+| DJZNAT |           6 |
+| IA8WK2 |           9 |
+
