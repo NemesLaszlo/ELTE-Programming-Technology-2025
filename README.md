@@ -96,5 +96,5 @@ The lecture (előadás) is asynchronous online
 | DJZNAT |           2 |
 | IA8WK2 |           1 |
 
-
+Whoever gets the 5th can choose any task from the description.
 
